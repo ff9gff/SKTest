@@ -31,7 +31,7 @@
 				<a href="game/game1/game1.jsp">축구</a>
 				<a href="game/game2/game2.jsp">50</a> 
 				<a href="board/list.jsp">게시판</a> 
-				<a href="member/listmember.jsp">회원관리</a> 	<br>
+				<a href="member/listmember.jsp">회원관리</a> <br>
 		<%
 			} else {
 		%>
@@ -45,6 +45,6 @@
 			}
 		%>
 	
-		<img src="images/bvb.png" width="30%" height="30%">
+		<img src="images/bvb.png" width="20%" height="20%">
 	</body>
 </html>
